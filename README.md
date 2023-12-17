@@ -1,5 +1,3 @@
-# crypto-bot
-Crypto bot for price with  API .
 <p align="center">
   <img src="logo.jpg">
 </p>
@@ -11,3 +9,4 @@ Crypto bot for price with  API .
   <img src="https://img.shields.io/github/issues/sr326201/crypto-bot?color=red&style=for-the-badge">
   <img src="https://img.shields.io/github/forks/sr326201/crypto-bot?color=teal&style=for-the-badge">
 </p>
+<h3><p align="center">H3X</p></h3>
