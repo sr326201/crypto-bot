@@ -9,5 +9,5 @@ Crypto bot for price with  API .
   <img src="https://img.shields.io/github/license/htr-tech/zphisher?style=for-the-badge">
   <img src="https://img.shields.io/github/stars/htr-tech/zphisher?style=for-the-badge">
   <img src="https://img.shields.io/github/issues/htr-tech/zphisher?color=red&style=for-the-badge">
-  <img src="https://img.shields.io/github/forks/htr-tech/zphisher?color=teal&style=for-the-badge">
+  <img src="https://img.shields.io/github/forks/sr326201/crypto-bot?color=teal&style=for-the-badge">
 </p>
