@@ -11,7 +11,3 @@ Crypto bot for price with  API .
   <img src="https://img.shields.io/github/issues/htr-tech/zphisher?color=red&style=for-the-badge">
   <img src="https://img.shields.io/github/forks/htr-tech/zphisher?color=teal&style=for-the-badge">
 </p>
-
-<h3>views :</h3>
-<br>
-<img src="https://profile-counter.glitch.me/esfelurm/count.svg" alt="Visitors">
